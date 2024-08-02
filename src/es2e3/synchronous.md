@@ -1,1 +1,0 @@
-# Synchronous Logic Circuits
